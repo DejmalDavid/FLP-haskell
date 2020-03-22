@@ -5,7 +5,7 @@ then
     echo ""
     echo ""
     echo ""
-    ./bkg-2-cnf
+    ./bkg-2-cnf -i test.txt
 else
     echo "CHYBA!!!"
 fi

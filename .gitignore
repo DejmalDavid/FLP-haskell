@@ -4,3 +4,5 @@ bkg-2-cnf
 *.hi
 
 *.o
+
+*.txt
